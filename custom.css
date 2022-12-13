@@ -1,0 +1,23 @@
+body, header {
+background-color: black;
+padding-top: 0em;
+}
+
+h1, h2 {
+margin-top: 2em;
+color: beige;
+}
+
+.info {
+  color: rgb(99, 98, 98);
+}
+
+#output span {
+margin-top: 2em;
+font-size: large;
+}
+
+footer {
+  color: rgb(99, 98, 98);
+}
+
